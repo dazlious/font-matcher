@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/font-matcher/static/css/main.c2fdeec9.chunk.css",
-    "main.js": "/font-matcher/static/js/main.be30c514.chunk.js",
-    "main.js.map": "/font-matcher/static/js/main.be30c514.chunk.js.map",
+    "main.css": "/font-matcher/static/css/main.48c15a01.chunk.css",
+    "main.js": "/font-matcher/static/js/main.62df50f2.chunk.js",
+    "main.js.map": "/font-matcher/static/js/main.62df50f2.chunk.js.map",
     "runtime-main.js": "/font-matcher/static/js/runtime-main.a1485992.js",
     "runtime-main.js.map": "/font-matcher/static/js/runtime-main.a1485992.js.map",
     "static/css/2.89372ea1.chunk.css": "/font-matcher/static/css/2.89372ea1.chunk.css",
@@ -10,14 +10,14 @@
     "static/js/2.3be437b5.chunk.js.map": "/font-matcher/static/js/2.3be437b5.chunk.js.map",
     "index.html": "/font-matcher/index.html",
     "static/css/2.89372ea1.chunk.css.map": "/font-matcher/static/css/2.89372ea1.chunk.css.map",
-    "static/css/main.c2fdeec9.chunk.css.map": "/font-matcher/static/css/main.c2fdeec9.chunk.css.map",
+    "static/css/main.48c15a01.chunk.css.map": "/font-matcher/static/css/main.48c15a01.chunk.css.map",
     "static/js/2.3be437b5.chunk.js.LICENSE.txt": "/font-matcher/static/js/2.3be437b5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a1485992.js",
     "static/css/2.89372ea1.chunk.css",
     "static/js/2.3be437b5.chunk.js",
-    "static/css/main.c2fdeec9.chunk.css",
-    "static/js/main.be30c514.chunk.js"
+    "static/css/main.48c15a01.chunk.css",
+    "static/js/main.62df50f2.chunk.js"
   ]
 }
